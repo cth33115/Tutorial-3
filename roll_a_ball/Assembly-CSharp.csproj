@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\cameracontroller.cs" />
      <Compile Include="Assets\Scripts\playercontroller.cs" />
+     <Compile Include="Assets\Scripts\Rotator.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/catherinedowell/Documents/GitHub/Tutorial-3/Tutorial-3/roll_a_ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
